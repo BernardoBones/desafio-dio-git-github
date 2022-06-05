@@ -1,2 +1,3 @@
-# desafio-dio-git-github
-Repositório para desafio da DIO sobre Git/Github
+# Repositório para desafio da DIO sobre Git/Github
+
+- Criar um respoitório no github
